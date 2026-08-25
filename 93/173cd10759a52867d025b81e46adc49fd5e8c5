@@ -1,0 +1,19 @@
+src/cloudflare/internal/test/images/images-api-instrumentation-test.js
+  s_66767b9e401d0e::t_b5a6c31d0e6d51 22,38-39,334-355,505-542
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "93173cd10759a52867d025b81e46adc49fd5e8c5",
+  "prompts": {},
+  "sessions": {
+    "s_66767b9e401d0e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0dcbb83c4ffeQ8K1jA4PhRRlgt",
+        "model": "@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Diretnan Domnan <diretnan@cloudflare.com>"
+    }
+  }
+}
