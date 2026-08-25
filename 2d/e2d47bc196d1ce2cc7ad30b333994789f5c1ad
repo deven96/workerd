@@ -1,0 +1,87 @@
+.opencode/agent/architect.md
+  s_66767b9e401d0e::t_9f02abed75f284 2,11,20,34-36,38-41,43-44,46-47,49-50,52,54-55,57,59-64,66,68-69,71-75,77,79-84,86,88-93,95,97-102,104,106-112,114,116,118,120,122,124,126,129-132,134,136,138,140,142,144,146-153
+.opencode/agent/code-review.md
+  s_66767b9e401d0e::t_c7f3639120773f 2-3,6-18,21-22,26,28,32,34-43,45-46,48-52,59-75,84-85,87-93,95-111,114-115,117-120,122-123,125-126,128-129,131,133-134,136,138-141,143,145-146,148-154,156-157,159,161-162,164,166-172,174,176-177,179-181,183-186,188-191,193-195,197,199-206,208,210,212-221,223,225,227,229-233,235,237,239,241-242,244-245,247,249-257
+.opencode/agent/review-api.md
+  s_66767b9e401d0e::t_f36b7f7dea867f 1-77
+.opencode/agent/review-safety.md
+  s_66767b9e401d0e::t_4a2633b6491f0b 2-21,24-27,29,31,33-35,37-85
+.opencode/agent/review-style.md
+  s_66767b9e401d0e::t_f04ee0720056fe 1-84
+.opencode/commands/autogate.md
+  s_66767b9e401d0e::t_adff4f84d3a247 10-15
+.opencode/commands/explain.md
+  s_66767b9e401d0e::t_0d364fbd97039e 12,14,23,44
+.opencode/commands/investigate.md
+  s_66767b9e401d0e::t_9befd19d2cf473 62-63,70-72
+build/BUILD.zlib
+  s_66767b9e401d0e::t_bc4aaca8d9c008 239,245
+build/deps/build_deps.jsonc
+  s_66767b9e401d0e::t_076909313cdbe5 43,47,51
+build/deps/gen/build_deps.MODULE.bazel
+  s_66767b9e401d0e::t_f5e1b7c0ffae35 8,14,17,20
+docs/reference/api-review-checklist.md
+  s_66767b9e401d0e::t_820614532bb07e 30-32,46
+docs/reference/detail/legacy-module-registry.md
+  s_66767b9e401d0e::t_c2d3fa004abfff 219
+images/container-client-test/BUILD.bazel
+  s_66767b9e401d0e::t_029598f141e6aa 17-22
+src/rust/cxx/BUILD.bazel
+  s_66767b9e401d0e::t_675a13fa403123 29,83
+src/rust/cxx/kj-rs/BUILD.bazel
+  s_66767b9e401d0e::t_cd4e7e9b976dad 44
+src/rust/cxx/kj-rs/tests/BUILD.bazel
+  s_66767b9e401d0e::t_9122ea0756f184 52
+src/rust/cxx/tests/BUILD.bazel
+  s_66767b9e401d0e::t_b4a0143b4d3df1 10,27
+src/workerd/api/basics.c++
+  s_66767b9e401d0e::t_8c3138ac45d06a 1151
+src/workerd/api/container.c++
+  s_66767b9e401d0e::t_955cebeb44d0f5 463,1484
+src/workerd/api/hibernatable-adapter.c++
+  s_66767b9e401d0e::t_e343e24fa76adc 21,112
+src/workerd/api/hibernatable-adapter.h
+  s_66767b9e401d0e::t_956726852f3263 38,70
+src/workerd/api/hibernatable-web-socket.c++
+  s_66767b9e401d0e::t_e040262b68acb1 44
+src/workerd/api/sockets.c++
+  s_66767b9e401d0e::t_94b14c97cdc047 1012
+src/workerd/api/sockets.h
+  s_66767b9e401d0e::t_2ae35a3c223584 78-79
+src/workerd/api/sql.c++
+  s_66767b9e401d0e::t_92790f873627b7 28
+src/workerd/api/streams/internal.h
+  s_66767b9e401d0e::t_5df04fb229a496 213
+src/workerd/api/sync-kv.c++
+  s_66767b9e401d0e::t_6f42b3ddc9ae75 80
+src/workerd/api/web-socket.c++
+  s_66767b9e401d0e::t_90c0e20e1c1410 205,280-281,284,308-309,313,326-327,341-342,1522,1528-1529,1649-1652,1654,1665
+src/workerd/api/web-socket.h
+  s_66767b9e401d0e::t_1de2e6ec6323d5 215,260,524,622,687-688,802-803
+src/workerd/io/hibernation-manager-test.c++
+  s_66767b9e401d0e::t_f5e3be48b30f01 311-342
+src/workerd/io/io-context.h
+  s_66767b9e401d0e::t_5a15c43d9eeee7 767-772
+src/workerd/io/legacy-hibernation-manager.c++
+  s_66767b9e401d0e::t_2d6469d132de9c 47
+src/workerd/io/legacy-hibernation-manager.h
+  s_66767b9e401d0e::t_4872beb6116ae1 88-89
+src/workerd/jsg/AGENTS.md
+  s_66767b9e401d0e::t_70b71fdcae6274 65-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2de2d47bc196d1ce2cc7ad30b333994789f5c1ad",
+  "prompts": {},
+  "sessions": {
+    "s_66767b9e401d0e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0dcbb83c4ffeQ8K1jA4PhRRlgt",
+        "model": "@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Diretnan Domnan <diretnan@cloudflare.com>"
+    }
+  }
+}
